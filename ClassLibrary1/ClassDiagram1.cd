@@ -101,12 +101,12 @@
   <Class Name="ClassLibrary1.Museo">
     <Position X="7.5" Y="1" Width="1.5" />
     <TypeIdentifier>
-      <HashCode>RghgAIChABABAAAAAAGgAAAAAgCAAAYAAAAAYAAAAAA=</HashCode>
+      <HashCode>RghgAIChABABAAAAAAGgAAAAAgCAAAYBAAAAYAAAAAA=</HashCode>
       <FileName>Museo.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="ClassLibrary1.DatosVentaAtraccion">
-    <Position X="0.5" Y="1.75" Width="1.5" />
+    <Position X="0.5" Y="1" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AABAAAAAQCAAAAgAAAAIAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
       <FileName>DatosVentaAtraccion.cs</FileName>
